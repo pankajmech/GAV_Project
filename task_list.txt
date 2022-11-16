@@ -1,0 +1,10 @@
+Baseline objective
+1. window creation with specified layout
+2. compute isosurface using any technique
+3. allows the user to select the isosurface by choosing isovalue
+4*. Display multiple isosurface at a time
+
+Algorithm in action
+1. Animation for marching cube or alternative Algorithm
+2. selection of subset of voxels to manipulate parameters for the
+   selected voxels
